@@ -267,7 +267,7 @@ export default function About() {
             Interested in Collaboration?
           </h2>
           <p className="text-gray-700 dark:text-gray-300 mb-6">
-            I'm open to academic collaborations, research opportunities and
+            I am open to academic collaborations, research opportunities and
             educational consultations.
           </p>
           <Link

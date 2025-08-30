@@ -343,7 +343,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl font-bold text-white mb-4">Get In Touch</h2>
           <p className="text-xl text-blue-100 mb-8 max-w-3xl mx-auto">
-            I'm available for academic collaborations, research opportunities,
+            I am available for academic collaborations, research opportunities,
             and educational consultations.
           </p>
           <Link
